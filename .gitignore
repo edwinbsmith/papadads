@@ -1,0 +1,8 @@
+/vendor
+.env
+
+/assets/bin
+/cgi-bin
+error_log
+
+/.idea

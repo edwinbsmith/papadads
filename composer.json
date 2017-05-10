@@ -1,0 +1,16 @@
+{
+    "name": "smithyco/papadads",
+    "description": "Papa Dads Food Truck Website",
+    "type": "project",
+    "require": {
+        "facebook/graph-sdk": "^5.5",
+        "guzzlehttp/guzzle": "^6.2",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Edwin Smith",
+            "email": "edwin@smithy.co"
+        }
+    ]
+}
