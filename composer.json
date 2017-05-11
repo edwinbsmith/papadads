@@ -5,7 +5,8 @@
     "require": {
         "facebook/graph-sdk": "^5.5",
         "guzzlehttp/guzzle": "^6.2",
-        "vlucas/phpdotenv": "^2.4"
+        "vlucas/phpdotenv": "^2.4",
+        "nesbot/carbon": "^1.22"
     },
     "authors": [
         {
